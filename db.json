@@ -1,0 +1,86 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "美品《Christian Dior 藍色Oblique 提花布 24公分 30 MONTAIGNE 斜背包》",
+      "image": "/images/christion dior.jpg",
+      "tags": "#DIOR, #斜背包, #蒙田包, #老花, #字紋",
+      "price": "999999",
+      "status": "available"
+    },
+    {
+      "id": 2,
+      "name": "二手品《Hermes 愛馬仕 藍色 12卡 銀釦 KELLY EP防刮牛皮 凱莉長夾》",
+      "image": "/images/hermes kelly ep.jpg",
+      "tags": "#愛馬仕, #手拿包, #凱莉, #長夾, #藍色",
+      "price": "999999",
+      "status": "available"
+    },
+    {
+      "id": 3,
+      "name": "美品《LOUIS VUITTON LV 字紋 楊丞琳 三合一包 斜背包/肩背包/手拿包》M44813 ",
+      "image": "/images/lv yangchenlin.jpg",
+      "tags": "#LV字紋, #斜背包, #特價, #楊丞琳, #三合一",
+      "price": "1111111",
+      "status": "available"
+    },
+    {
+      "id": 4,
+      "name": "美品《LOUIS VUITTON LV 字紋搭皮革 POUCHE LV3 手拿包/肩背包/斜背包》M45412",
+      "image": "/images/lv pouche lv3.jpg",
+      "tags": "#LV字紋, #肩背包, #斜背包, #特價, #POUCHE",
+      "price": "73148",
+      "status": "available"
+    },
+    {
+      "id": 5,
+      "name": "閒置商品《VALEXTRA 手工牛皮經典款黃色系二折4卡零錢短夾/皮夾》",
+      "image": "/images/valextra.jpg",
+      "tags": "#VALEXTRA, #VALEXTRA短夾",
+      "price": "12800",
+      "status": "available"
+    }
+  ],
+  "carts": [
+    {
+      "productId": 1,
+      "name": "美品《Christian Dior 藍色Oblique 提花布 24公分 30 MONTAIGNE 斜背包》",
+      "image": "/images/christion dior.jpg",
+      "price": "999999",
+      "mount": 1,
+      "id": 1
+    },
+    {
+      "productId": 5,
+      "name": "閒置商品《VALEXTRA 手工牛皮經典款黃色系二折4卡零錢短夾/皮夾》",
+      "image": "/images/valextra.jpg",
+      "price": "12800",
+      "mount": 1,
+      "id": 2
+    },
+    {
+      "productId": 2,
+      "name": "二手品《Hermes 愛馬仕 藍色 12卡 銀釦 KELLY EP防刮牛皮 凱莉長夾》",
+      "image": "/images/hermes kelly ep.jpg",
+      "price": "999999",
+      "mount": 1,
+      "id": 3
+    },
+    {
+      "productId": 3,
+      "name": "美品《LOUIS VUITTON LV 字紋 楊丞琳 三合一包 斜背包/肩背包/手拿包》M44813 ",
+      "image": "/images/lv yangchenlin.jpg",
+      "price": "1111111",
+      "mount": 1,
+      "id": 4
+    },
+    {
+      "productId": 4,
+      "name": "美品《LOUIS VUITTON LV 字紋搭皮革 POUCHE LV3 手拿包/肩背包/斜背包》M45412",
+      "image": "/images/lv pouche lv3.jpg",
+      "price": "73148",
+      "mount": 2,
+      "id": 5
+    }
+  ]
+}
